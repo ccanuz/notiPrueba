@@ -1,0 +1,14 @@
+generar paquetes con vista
+
+ionic generate page detalle
+
+
+
+instalar firebase 
+
+sudo npm install angularfire2 firebase --save
+
+
+actualizar
+
+sudo npm i rxjs@6 rxjs-compat@6 promise-polyfill --save
