@@ -1,0 +1,7 @@
+{
+  "name": "NotiPublic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
